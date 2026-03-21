@@ -8,7 +8,7 @@ This repository contains materials, revision notes, and resources for the **E211
 
 Here is a quick breakdown of what you can find inside:
 
-* **`6P (AY2025)/`** - [Add a brief description here, e.g., Practical session materials or group project files]
+* **`6P (AY2025)/`** - Lesson Slides
 * **`Attendance Quizzes (Faci Fui Long)/`** - Materials, notes, and references for the attendance quizzes. 
 * **`Final Assessment (FA) Papers/`** - Practice papers, past year questions, and revision guides to prepare for the final assessment.
 * **`Module Briefing (AY2025)/`** - Syllabus overview, module requirements, and introductory slides.
