@@ -23,3 +23,17 @@ These materials are shared for educational and revision purposes. Please ensure 
 
 ---
 *Good luck with the module!*
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="google-site-verification" content="KIPShlMalVaSZs44kzVf1SC13b7Ih2bq48vpDSjnYzI" />
+  <meta charset-"UTF-8">
+  <title>My First Page</title>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>This is a simple HTML page .< /p>
+  <button>Click Me</button>
+</body>
+</htm1>
